@@ -2,7 +2,7 @@
 给定一个数组nums，编写一个函数将所有的0移动到数组的末尾，同事保持非零元素的位置
 
 ##解：
-1、开新数组，最后补齐0
+###1、开新数组，最后补齐0
 const moveZeroes = (nums) => {
   let res = []
   const len = nums.length
@@ -16,7 +16,7 @@ const moveZeroes = (nums) => {
   }
   return res
 }
-2、记录下一个非零节点的位置
+###2、记录下一个非零节点的位置
 const moveZeroes = (nums) => {
   const len = nums.length
   let j = 0
