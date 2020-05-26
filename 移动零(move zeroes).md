@@ -3,7 +3,8 @@
 
 ## 解：
 * 1、开新数组，最后补齐0
-`const moveZeroes = (nums) => {
+```
+const moveZeroes = (nums) => {
   let res = []
   const len = nums.length
   for(let i = 0; i < len; i++) {
@@ -15,9 +16,11 @@
     res.push(0)
   }
   return res
-}`
+}
+```
 * 2、记录下一个非零节点的位置
-`const moveZeroes = (nums) => {
+```
+const moveZeroes = (nums) => {
   const len = nums.length
   let j = 0
   for(let i = 0; i < len; i++) {
@@ -31,4 +34,5 @@
     }
   }
   return nums
-}`
+}
+```
