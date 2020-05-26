@@ -23,13 +23,12 @@ const moveZeroes = (nums) => {
   for(let i = 0; i < len; i++) {
     if(nums[i] !== 0) {
       nums[j] = nums[i]
+      if(i !== j) {
+        nums[j] = 0
+      }
       j++
       continue
     }
-  }
-  while(j < len) {
-    nums[j] = 0
-    j++
   }
   return nums
 }
