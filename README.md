@@ -1,5 +1,6 @@
 ## 每日学习算法
-- [爬楼梯](https://marhovey.github.io/daily-improve/爬楼梯(climb%20stairs))
+[basic]: https://marhovey.github.io/daily-improve/
+- [爬楼梯]([basic]s爬楼梯(climb%20stairs))
 - [前序遍历](https://marhovey.github.io/daily-improve/前序遍历(binary%20tree%20preorder%20traversal))
 - [中序遍历](https://marhovey.github.io/daily-improve/中序遍历(binary%20tree%20inorder%20traversal))
 - [后序遍历](https://marhovey.github.io/daily-improve/后序遍历(binary%20tree%20postorder%20traversal))
