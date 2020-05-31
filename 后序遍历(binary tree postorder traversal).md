@@ -4,13 +4,13 @@
 ### 解：
 * 1、递归算法
 ```
-const inorderTraversal = (root) => {
+const postorderTraversal = (root) => {
   let res = []
   var inorder = (node) => {
     if(!node) return
     node.left && inorder(node.left)
-    res.push(node.val)
     node.right && inorder(node.right)
+    res.push(node.val)
   }
   inorder(root)
   return res
@@ -18,7 +18,7 @@ const inorderTraversal = (root) => {
 ```
 * 2、迭代算法
 ```
-const inorderTraversal = (root) => {
+const postorderTraversal = (root) => {
   let res = []
   let stack = [root]
   while(stack.length) {

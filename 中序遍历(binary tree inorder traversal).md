@@ -11,7 +11,7 @@ const inorderTraversal = (root) => {
       node.left && inorder(node.left)
       res.push(node.val)
       node.right && inorder(node.right)
-    }
+  }
   inorder(root)
   return res
 }

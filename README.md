@@ -6,3 +6,4 @@
 - [后序遍历](https://marhovey.github.io/daily-improve/后序遍历(binary%20tree%20postorder%20traversal))
 - [括号生成](https://marhovey.github.io/daily-improve/括号生成(generate%20parenthesis))
 - [移动零](https://marhovey.github.io/daily-improve/移动零(move%20zeroes))
+- [验证二叉搜索树](https://marhonvey.github.io/daily-improve/验证二叉搜索树(validate%20binary%20search%20tree))
