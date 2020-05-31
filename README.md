@@ -8,4 +8,4 @@
 - [移动零](https://marhovey.github.io/daily-improve/移动零(move%20zeroes))
 - [验证二叉搜索树](https://marhovey.github.io/daily-improve/验证二叉搜索树(validate%20binary%20search%20tree))
 - [对称二叉树](https://marhovey.github.io/daily-improve/对称二叉树(symmetric%20tree))
-- [二叉树的最大深度](https://marhovey.github.io/daily-improve/二叉树的最大深度(maximum%20deep%20of%20binary))
+- [二叉树的最大深度](https://marhovey.github.io/daily-improve/二叉树的最大深度(maximum%20depth%20of%20binary))

@@ -8,6 +8,8 @@ const check = (p, q) => {
   if(!p || !q) return false
   return p.val === q.val && (p.left, q.right) && (p.right, q.left)
 }
+```
+```
 const isSymmetric = (root) => {
   return check(root, root)
 }
