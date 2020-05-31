@@ -1,6 +1,5 @@
 ## 101.对称二叉树
 给定一个二叉树，检查其是否是镜像对称的。
-
 ## 解：
 * 1、递归
 ```
@@ -12,7 +11,6 @@ const check = (p, q) => {
 const isSymmetric = (root) => {
   return check(root, root)
 }
-
 ```
 * 2、迭代算法
 ```
