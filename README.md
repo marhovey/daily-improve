@@ -10,4 +10,4 @@
 - [对称二叉树](https://marhovey.github.io/daily-improve/对称二叉树(symmetric%20tree))
 - [二叉树的最大深度](https://marhovey.github.io/daily-improve/二叉树的最大深度(maximum%20depth%20of%20binary))
 - [求1+2+...+n](https://marhovey.github.io/daily-improve/求1%2B2%2B...%2Bn)
-- [除自身以外数组的乘积](https://marhovey.github.io/daily-improve/除自身以外的数组乘积)
+- [除自身以外数组的乘积](https://marhovey.github.io/daily-improve/除自身以外数组的乘积)
