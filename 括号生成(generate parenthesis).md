@@ -11,5 +11,7 @@ const generateParenthesis = (n) => {
     left < n && gen(left + 1, right, str + '(')
     right < left && gen(left, right + 1, str + ')')
   }
+  gen(0, 0, '')
+  return res
 }
 ```
