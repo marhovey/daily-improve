@@ -12,3 +12,4 @@
 - [求1+2+...+n](https://marhovey.github.io/daily-improve/求1%2B2%2B...%2Bn)
 - [除自身以外数组的乘积](https://marhovey.github.io/daily-improve/除自身以外数组的乘积)
 - [每日温度](https://marhovey.github.io/daily-improve/每日温度)
+- [最长连续数列](https://marhovey.github.io/daily-improve/最长连续数列)
