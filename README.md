@@ -16,3 +16,5 @@
 - [最长连续数列](https://marhovey.github.io/daily-improve/最长连续数列)
 - [转变数组后最接近目标值的数组和](https://marhovey.github.io/daily-improve/转变数组后最接近目标值的数组和)
 - [最长公共前缀](https://marhovey.github.io/daily-improve/最长公共前缀)
+- [分糖果](https://marhovey.github.io/daily-improve/分糖果)
+- [有效的括号](https://marhovey.github.io/daily-improve/有效的括号)
