@@ -19,3 +19,4 @@
 - [分糖果](https://marhovey.github.io/daily-improve/分糖果)
 - [有效的括号](https://marhovey.github.io/daily-improve/有效的括号)
 - [两个栈实现队列](https://marhovey.github.io/daily-improve/两个栈实现队列)
+- [最长重复子数组](https://marhovey.github.io/daily-improve/最长重复子数组)
